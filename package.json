@@ -1,0 +1,19 @@
+{
+  "name": "frontendposifsuldeminas",
+  "version": "1.0.0",
+  "description": "projeto para a pos graduação do IFSULDEMINAS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelosprogrammer/projetonodebootstrappos.git"
+  },
+  "author": "marcelos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelosprogrammer/projetonodebootstrappos/issues"
+  },
+  "homepage": "https://github.com/marcelosprogrammer/projetonodebootstrappos#readme"
+}
