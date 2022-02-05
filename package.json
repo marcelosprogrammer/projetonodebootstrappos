@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/marcelosprogrammer/projetonodebootstrappos/issues"
   },
-  "homepage": "https://github.com/marcelosprogrammer/projetonodebootstrappos#readme"
+  "homepage": "https://github.com/marcelosprogrammer/projetonodebootstrappos#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
 }
