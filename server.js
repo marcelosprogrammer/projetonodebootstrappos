@@ -22,6 +22,12 @@ switch(path) {
 	case '':
 		serverStaticFile(res, '/public/home.html','text/html')
 		break
+	case '/index':
+		serverStaticFile(res, '/public/index.html','text/html')
+		break
+	case '/dados1.jpg':
+		serverStaticFile(res, '/public/dados1.jpg','image/jpg')
+	break
 }
 })
 
